@@ -1,0 +1,7 @@
+.card-course-item {
+  margin-top: 16px; }
+
+.card-img {
+  width: 100% !important;
+  height: 200px !important;
+  object-fit: cover; }
